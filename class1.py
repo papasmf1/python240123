@@ -17,4 +17,12 @@ p1.name = "전우치"
 p1.print()
 p2.print() 
 
+#실행시간에 변수 추가
+Person.title = "new title"
+print(p1.title)
+print(p2.title)
+print(Person.title)
+
+
+
 
